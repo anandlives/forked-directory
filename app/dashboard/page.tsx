@@ -107,7 +107,7 @@ export default async function DashboardPage({
   return (
     <div>
       <div className="bg-black text-white py-3 text-center text-sm">
-        <p>Look in Your New Building with Flexible Payment Plans and Special Discounts!</p>
+        <p>Knight Frank</p>
       </div>
       <SearchFilters locations={uniqueLocations} buildingNames={buildingNames} initialFilters={initialFilters} />
 
